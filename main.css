@@ -1,0 +1,11 @@
+.post_full .post_tags.fadeable {
+	max-height: unset!important;
+}
+
+.see-all-tags {
+	display: none!important;
+}
+
+.post_full .post_tags .post_tag {
+	display: inline!important;
+}
