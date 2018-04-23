@@ -1,6 +1,9 @@
 # #wrap
 
-[#wrap] is a Chrome extension to inline Tumblr tags. Newly on GitHub!
+[#wrap], which you can pronounce “hash wrap” or something else if youd prefer,
+is a Chrome extension to inline Tumblr tags.
+
+Weight, uncompressed: 3.06kb, mostly icons. 175 bytes of CSS.
 
 AGPLv3 Licensed.
 
